@@ -1,5 +1,5 @@
 import regeneratorRuntime from 'regenerator-runtime';
-import { MnistData } from './handwriting.data';
+import { MnistData } from '../data/handwriting.data';
 import * as tfvis from '@tensorflow/tfjs-vis';
 import * as tf from '@tensorflow/tfjs';
 
